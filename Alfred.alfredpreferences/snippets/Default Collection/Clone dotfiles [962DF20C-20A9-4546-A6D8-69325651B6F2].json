@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "git clone https:\/\/github.com\/himat\/dotfiles.git && cd dotfiles && .\/setup.sh",
+    "uid" : "962DF20C-20A9-4546-A6D8-69325651B6F2",
+    "name" : "Clone dotfiles",
+    "keyword" : ";dotf"
+  }
+}

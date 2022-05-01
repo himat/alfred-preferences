@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customSites</key>
+	<dict>
+		<key>01543546-3394-45FB-9876-D1EDF38BAF88</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>caladd</string>
+			<key>text</key>
+			<string>Add Google Calendar event</string>
+			<key>url</key>
+			<string>http://www.google.com/calendar/event?ctext=+{query}+&amp;action=TEMPLATE&amp;pprop=HowCreated%3AQUICKA
+http://www.google.com/calendar/event?ctext=+{query}+&amp;action=TEMPLATE&amp;pprop=HowCreated%3AQUICKAhttp://www.google.com/calendar/event?ctext=+{query}+&amp;action=TEMPLATE&amp;pprop=HowCreated%3AQUICKA
+http://www.google.com/calendar/event?ctext=+{query}+&amp;action=TEMPLATE&amp;pprop=HowCreated%3AQUICKA
+http://www.google.com/calendar/event?ctext=+{query}+&amp;action=TEMPLATE&amp;pprop=HowCreated%3AQUICKA</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>037DC33C-1554-4A8C-9C7C-1DCF309F3C2D</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>sub</string>
+			<key>text</key>
+			<string>Substack page | Hima's Show</string>
+			<key>url</key>
+			<string>https://hima.substack.com/publish</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>17F2B6B5-5241-4904-883C-683AEA59E2FD</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>mail</string>
+			<key>text</key>
+			<string>Open Gmail</string>
+			<key>url</key>
+			<string>https://mail.google.com/mail/u/0/#sent?compose=new</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>233FC8AB-BE5E-4049-8519-0E222A959D35</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>mail0</string>
+			<key>text</key>
+			<string>mail0 search</string>
+			<key>url</key>
+			<string>https://mail.google.com/mail/u/0/#search/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>4628B351-4730-4D9F-8E86-4DFA9B8A3C70</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>prm</string>
+			<key>text</key>
+			<string>Add new person to my PRM</string>
+			<key>url</key>
+			<string>https://airtable.com/shr0Lj9qL5kObMCR6</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>4937B45D-1251-4E24-A5E6-B7B9D55DD0C3</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>github</string>
+			<key>text</key>
+			<string>Search Github for {query}</string>
+			<key>url</key>
+			<string>https://github.com/search?q={query}&amp;amp;ref=opensearch</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>514E7E36-C50B-4A0F-852F-59E2A6D1C36E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ktools</string>
+			<key>text</key>
+			<string>ktools github repo</string>
+			<key>url</key>
+			<string>https://github.com/kynes-ai/ktools</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>5E59C743-B5A2-4BDE-A029-52975E5FA0C5</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>gc</string>
+			<key>text</key>
+			<string>Add to Google calendar {query}</string>
+			<key>url</key>
+			<string>http://www.google.com/calendar/event?ctext=+{query}+&amp;action=TEMPLATE&amp;pprop=HowCreated%3AQUICKA</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>64844556-1FDF-4972-9DE4-827C8F6C4765</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>email</string>
+			<key>text</key>
+			<string>Open Gmail</string>
+			<key>url</key>
+			<string>https://mail.google.com/mail/u/0/#sent?compose=new</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>7D314E16-7CBA-4DD8-BCC4-59DD68C2797C</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>targeting-ml</string>
+			<key>text</key>
+			<string>Targeting-ML github repo</string>
+			<key>url</key>
+			<string>https://github.com/kynes-ai/targeting-ML</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>A0D42031-EE04-442A-81CE-221AA468DABA</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>ph</string>
+			<key>text</key>
+			<string>Search Product Hunt for "{query}"</string>
+			<key>url</key>
+			<string>https://producthunt.com/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>A7C76EFF-363A-4938-8FAC-243FC9C1283E</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>fa</string>
+			<key>text</key>
+			<string>Font Awesome icon search</string>
+			<key>url</key>
+			<string>https://fontawesome.com/icons?d=gallery&amp;q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>B1495FC7-DA52-4825-9F67-86CC9C7DF301</key>
+		<dict>
+			<key>enabled</key>
+			<false/>
+			<key>keyword</key>
+			<string>mdn</string>
+			<key>text</key>
+			<string>MDN Search</string>
+			<key>url</key>
+			<string>https://developer.mozilla.org/en-US/search?q={query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>D21B92D9-7F0F-4F0B-AC8A-3BF0F85A2416</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>hima</string>
+			<key>text</key>
+			<string>Hima's substack</string>
+			<key>url</key>
+			<string>https://hima.substack.com/publish</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+		<key>DD55B69E-D9CD-4BA8-8884-7BEB7280CAB7</key>
+		<dict>
+			<key>enabled</key>
+			<true/>
+			<key>keyword</key>
+			<string>mail1</string>
+			<key>text</key>
+			<string>mail1 search</string>
+			<key>url</key>
+			<string>https://mail.google.com/mail/u/1/#search/{query}</string>
+			<key>utf8</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

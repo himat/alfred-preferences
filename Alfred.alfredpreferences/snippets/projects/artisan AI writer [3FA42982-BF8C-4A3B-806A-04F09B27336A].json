@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "The plan for artisan is to make a better writing tool that helps you write in higher quality and ideally help you write down previously unthinkable thoughts.ML will partly help here - imagine the AI assistant built into the editor being able to suggest the next few words or sentences you could write whenever you press the Tab key.The assistant could also highlight when you make a claim that is unsupported by evidence. If you're ever stuck on what to write next or how to say something, the assistant could give you multiple different ideas or directions to go in that might trigger something good in your head.There are other parts of this though that aren't about the ML. One thing that we're thinking about is building communities into this writing tool. Say you're someone who writes blog posts on developer tools. We can build communities into this tool such that it makes it easy for you to find other such writers and let you each share your blog posts with each other for feedback.We also want to be able to crowdsource writing tips so that for whatever kind of writing you're writing, we can automatically (with some ML) show you the relevant writing or grammar tips to help you improve your writing at that time.",
+    "uid" : "3FA42982-BF8C-4A3B-806A-04F09B27336A",
+    "name" : "artisan AI writer",
+    "keyword" : ""
+  }
+}

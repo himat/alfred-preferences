@@ -1,0 +1,76 @@
+{
+  "_from": "alfred-show-network-info",
+  "_id": "alfred-show-network-info@0.1.18",
+  "_inBundle": false,
+  "_integrity": "sha512-kuTyXEFhG8ep+tb6ZVzbL9Cs05P2JSJvBZaQGTfklqXCq5ZxsUmELzSyH0SqtWCdVp/Pmucd7T/Bnovxi1MCHA==",
+  "_location": "/alfred-show-network-info",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "alfred-show-network-info",
+    "name": "alfred-show-network-info",
+    "escapedName": "alfred-show-network-info",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/alfred-show-network-info/-/alfred-show-network-info-0.1.18.tgz",
+  "_shasum": "f952a9eef481943f2be8f4d3bae7113db4aadc69",
+  "_spec": "alfred-show-network-info",
+  "_where": "/Users/jeppestaerk/Projects/alfred-show-network-info",
+  "author": {
+    "name": "Jeppe Stærk",
+    "email": "dev@staerk.io",
+    "url": "https://github.com/jeppestaerk/alfred-show-network-info"
+  },
+  "bugs": {
+    "url": "https://github.com/jeppestaerk/alfred-show-network-info/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "alfy": "^0.7.0",
+    "default-gateway": "^2.7.0",
+    "internal-ip": "^3.0.1",
+    "local-devices": "^1.0.5",
+    "public-ip": "^2.4.0"
+  },
+  "deprecated": false,
+  "description": "Alfred 3 Workflow - See network info and discover local devices",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist",
+    "icons/*.png"
+  ],
+  "homepage": "https://github.com/jeppestaerk/alfred-show-network-info#readme",
+  "keywords": [
+    "alfred",
+    "alfred-workflow",
+    "alfred3",
+    "alfred3-workflow",
+    "alfy",
+    "local-ip",
+    "public-ip",
+    "gateway-ip",
+    "network-discovery"
+  ],
+  "license": "MIT",
+  "name": "alfred-show-network-info",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeppestaerk/alfred-show-network-info.git"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "version": "0.1.18"
+}
